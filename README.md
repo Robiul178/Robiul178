@@ -1,8 +1,6 @@
 
 
-
 <h2 align="center">Passionate about Web Development</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> <br>
 
 
 I am Robiul Islam, people call me Robi, a computer science student from [Bangladesh University of Business & Technology ](https://www.bubt.edu.bd/).I’m currently learning **Mearn Stack development . Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
@@ -13,6 +11,10 @@ I am Robiul Islam, people call me Robi, a computer science student from [Banglad
 
 [![Linkedin Badge](https://img.shields.io/badge/-robiulislam007-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robiulislam007/)](https://www.linkedin.com/in/robiulislam007)
 [![Instagram Badge](https://img.shields.io/badge/-robiul.islam__-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/robiul.islam__/)](https://www.instagram.com/robiul.islam__)
+
+
+
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Robiul178&theme=dark)
 
 
 ## ⚡ Technologies
@@ -30,11 +32,18 @@ I am Robiul Islam, people call me Robi, a computer science student from [Banglad
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Robiul178)](https://git.io/streak-stats)
+
+### - What i do
 
 
+<br />
 
-![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Robiul178&theme=dark)
-
-
+<p align="center">
+   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+   </p>
+   
+   
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
