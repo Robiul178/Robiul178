@@ -29,10 +29,8 @@ I am Robiul Islam, people call me Robi, a computer science student from [Banglad
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Robiul178)](https://git.io/streak-stats)
 
 
 
