@@ -42,7 +42,7 @@ I am Robiul Islam, people call me Robi, a computer science student from [Banglad
 </p>
 
 
-<p align="center">
+<p >
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Robiul178&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robiul178&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
