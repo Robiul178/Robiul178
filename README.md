@@ -3,7 +3,7 @@
 <h2 align="center">Passionate about Web Development</h3>
 
 
-I am Robiul Islam, people call me Robi, a computer science student from [Bangladesh University of Business & Technology ](https://www.bubt.edu.bd/).I’m currently learning **Mearn Stack development . Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Robiul Islam, people call me Robi, a computer science student from [Bangladesh University of Business & Technology ](https://www.bubt.edu.bd/).I’m Passionate about building dynamic web applications and responsive web applications using HTML, CSS,JavaScript, React JS, Express JS, Node JS, and MongoDB. Interested in software engineering. I am currently live in Dahaka , Bangladesh. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 - 💬 Ask me about **React**
 
