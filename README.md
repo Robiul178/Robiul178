@@ -1,18 +1,5 @@
 
 
-<h2 align="center">Passionate about Web Development</h3>
-
-
-I am Robiul Islam, people call me Robi, a computer science student from [Bangladesh University of Business & Technology ](https://www.bubt.edu.bd/).I’m Passionate about building dynamic web applications and responsive web applications using HTML, CSS,JavaScript, React JS, Express JS, Node JS, and MongoDB. Interested in software engineering. I am currently live in Dahaka , Bangladesh. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **r.robiul.me@gmail.com** || **+8801786755382**
-
-[![Linkedin Badge](https://img.shields.io/badge/-robiulislam007-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robiulislam007/)](https://www.linkedin.com/in/robiulislam007)
-[![Instagram Badge](https://img.shields.io/badge/-robiul.islam__-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/robiul.islam__/)](https://www.instagram.com/robiul.islam__)
-
-
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
